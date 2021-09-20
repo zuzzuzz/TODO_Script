@@ -1,5 +1,5 @@
-# TODO_Script
-Google Sheets To Do Script
+# TimeStamp_Script
+Google Sheets, TimeStamp for Google Sheets
 
 function onEdit(e) {
   addTimestamp(e)
